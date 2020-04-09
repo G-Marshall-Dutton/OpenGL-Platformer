@@ -1,0 +1,119 @@
+﻿  Main.cpp
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\gameobject.h(67): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\gameobject.h(71): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(105): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(120): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(121): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(155): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\player.h(156): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\platform.h(35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\platform.h(36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\platform.h(37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\platform.h(44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\platform.h(48): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\platform.h(53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\platform.h(56): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(59): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\enemy.h(63): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\bat.h(29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\bat.h(33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\bat.h(38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\bat.h(42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\bat.h(48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(226): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(227): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(263): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(377): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(608): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(615): warning C4018: '<': signed/unsigned mismatch
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(629): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(632): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(635): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(687): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(700): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(704): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(705): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(718): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(725): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(820): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(821): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(822): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(849): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(857): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(858): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(859): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(866): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(874): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(875): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(876): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(883): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(891): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(892): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(893): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(930): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(938): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(939): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(940): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(948): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(955): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(956): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(957): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(966): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(973): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(974): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(975): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(983): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(990): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(991): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(992): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1001): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1008): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1009): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1010): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1018): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1025): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1026): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1027): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1257): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1265): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1295): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1302): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1322): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1337): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1357): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1364): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1372): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1393): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1399): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1410): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1413): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1421): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1474): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\george\documents\visual studio 2015\projects\opengl_cw\opengl_cw\main.cpp(1482): warning C4305: '-=': truncation from 'double' to 'float'
+  OpenGL_CW.vcxproj -> C:\Users\George\documents\visual studio 2015\Projects\OpenGL_CW\Debug\OpenGL_CW.exe
+  OpenGL_CW.vcxproj -> C:\Users\George\documents\visual studio 2015\Projects\OpenGL_CW\Debug\OpenGL_CW.pdb (Full PDB)
